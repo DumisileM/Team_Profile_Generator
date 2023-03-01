@@ -18,7 +18,7 @@ in your terminal.
 - You will now be presented with a series of prompts, to which you should write you anwers. Press Enter only to submit your response.
 - Once you have answered all the prompts. You should be able to see your newly generated ```team.html``` file in the ```output/``` directory. By viewing the page on the live server, you should see something like this:
 
-![Team Profile Web App](assets\teamprofile.png)
+![Team Profile Web App](assets/teamprofile.png)
 
 
 ## Testing
