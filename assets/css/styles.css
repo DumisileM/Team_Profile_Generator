@@ -1,0 +1,34 @@
+body {
+    background-color: #FEF9FF;;
+}
+
+.jumbotron{
+    background-color:transparent;
+    border-bottom: 2px solid black;
+    border-radius: 0%;
+}
+.team-area{
+
+    justify-content: space-evenly;
+  
+}
+
+.employee-card{
+    background-color:#A480CF ;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.8);
+    color:white;
+}
+.card-header{
+    background-color:#A480CF ;
+    border-color: black;
+    color: black;
+}
+.list-group-item{
+    background-color: #A480CF;
+    border: 2px solid black;
+}
+a{
+    text-decoration: none;
+    color: white
+}
