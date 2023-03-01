@@ -107,7 +107,7 @@ const render = require("./src/page-template.js");
                     },
             
                 ]).then((answers) =>{
-                    const intern = new Engineer(answers.internName, answers.employeeID,answers.email,answers.school)
+                    const intern = new Intern(answers.internName, answers.employeeID,answers.email,answers.school)
                     teamArr.push(intern)
                     options()
 

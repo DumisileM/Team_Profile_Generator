@@ -7,17 +7,14 @@ body {
     border-bottom: 2px solid black;
     border-radius: 0%;
 }
-.team-area{
 
-    justify-content: space-evenly;
-  
-}
 
 .employee-card{
     background-color:#A480CF ;
     border: 2px solid black;
     box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.8);
     color:white;
+    margin: 10px;
 }
 .card-header{
     background-color:#A480CF ;
